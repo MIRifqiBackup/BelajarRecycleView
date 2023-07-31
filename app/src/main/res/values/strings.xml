@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BelajarRecycleView</string>
+    <string name="gambar">gambar</string>
+    <string name="kota">Kota</string>
+</resources>
